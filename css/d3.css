@@ -1,0 +1,24 @@
+
+#container {
+  width: 800px;
+  margin-left: 2px;
+  margin-right: auto;
+  margin-top: 30px;
+  padding: 30px;
+  background-color: #fff;
+  /*box-shadow: 3px 3px 5px 6px #ccc; */
+}
+
+svg {
+  background-color: #fff;
+}
+
+path {
+      stroke-width: 0.3;
+      stroke:#2B2B2B;
+      fill: #18a6b7;
+}
+
+path:hover {
+      fill: #f18e87;
+    }
